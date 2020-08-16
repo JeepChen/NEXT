@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-08-16T06:57:14.143Z" agent="5.0 (Windows)" version="13.6.2" etag="3MBCW-YXtGRP-6Pg-gAU" type="github"><diagram id="Xvx_5i-T-Nuk23Hd3JUN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-16T06:57:50.743Z" agent="5.0 (Windows)" etag="K1TVe5P9nyFriB5GkyXG" version="13.6.2" type="github">
+  <diagram id="Xvx_5i-T-Nuk23Hd3JUN" name="Page-1">
+    <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LR5r4L9kWHbmgXmanQVm-1" value="NEXT标准开发与落地流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="140" width="150" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
